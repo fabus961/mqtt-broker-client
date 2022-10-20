@@ -3,6 +3,8 @@ MQTT Broker / Client
 
 This repo contains quick start code to jump into mqtt broker-client based communication, using [aedes](https://github.com/moscajs/aedes) as broker and [mqtt.js](https://github.com/mqttjs/MQTT.js) on the client side.
 
+<img src="https://media0.giphy.com/media/06aA0f1QpAshEfFbFH/giphy.gif?cid=ecf05e47mte0gn4phg5gqn033ptl4c0t30li4dezt7v5xbxd&rid=giphy.gif&ct=g" style="width:30%;margin:auto;display:block;"/>
+
 Prerequisites
 ----------
 
@@ -61,3 +63,9 @@ Structure
 ├── package.json                # Tools and utilities
 └── README.md                   # This documentation
 ```
+
+Special thanks to
+------------
+
+
+<img src="https://imgur.com/OGgQIN4.jpg" />
