@@ -1,0 +1,12 @@
+{
+  "name": "mqtt-bare-minimum",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "npmClient": "yarn",
+  "scripts": {
+    "client": "node ./packages/client/index.js",
+    "broker": "node ./packages/broker/index.js"
+  }
+}

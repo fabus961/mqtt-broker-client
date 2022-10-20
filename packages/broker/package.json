@@ -1,0 +1,17 @@
+{
+  "name": "broker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aedes": "^0.48.0",
+    "dotenv": "^16.0.3",
+    "websocket-stream": "^5.5.2"
+  }
+}
